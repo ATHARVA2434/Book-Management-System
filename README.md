@@ -79,7 +79,7 @@ npm -v
 
 ### Step 1 — Clone or download the project
 
-If you have the zip, extract it.
+Extract the Zip.
 
 
 ---
